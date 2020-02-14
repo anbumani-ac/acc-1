@@ -1,0 +1,21 @@
+.logo {
+  height: 50px;
+}
+
+nav {
+  height: 11vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.navbar-nav {
+  flex-direction: row;
+  font-weight: 650;
+  font-size: 18px;
+}
+
+.nav-item {
+  margin-left: 35px;
+}

@@ -1,0 +1,7 @@
+.ca-form {
+  margin-top: 20vh;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

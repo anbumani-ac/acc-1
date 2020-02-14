@@ -1,0 +1,23 @@
+.welcome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.welcome h1,
+.welcome h3 {
+  line-height: 2;
+}
+
+.welcome p {
+  font-size: large;
+  margin: 20px 150px;
+}
+
+.welcome img {
+  width: 60%;
+  height: 60%;
+}
